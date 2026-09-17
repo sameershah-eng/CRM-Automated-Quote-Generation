@@ -1,0 +1,6 @@
+{
+  "name": "Industrial B2B CRM & Quote Engine",
+  "description": "B2B CRM sales tool with automated deterministic quote generation for metal fabrication, CNC machining, and industrial manufacturing suppliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
